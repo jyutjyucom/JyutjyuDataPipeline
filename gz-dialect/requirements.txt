@@ -1,0 +1,10 @@
+google-genai
+Pillow
+opencv-python<4.10
+PyMuPDF
+tqdm
+openai
+python-dotenv
+scipy
+numpy<2
+matplotlib

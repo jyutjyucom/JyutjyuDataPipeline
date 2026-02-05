@@ -1,0 +1,858 @@
+================================================================================
+Wiktionary粤语词条结构分析
+================================================================================
+
+================================================================================
+词条 1: book
+================================================================================
+
+{
+  "pos": "verb",
+  "head_templates": [
+    {
+      "name": "head",
+      "args": {
+        "1": "zh",
+        "2": "verb"
+      },
+      "expansion": "book"
+    }
+  ],
+  "sounds": [
+    {
+      "zh_pron": "buk¹",
+      "tags": [
+        "Cantonese",
+        "Jyutping"
+      ]
+    },
+    {
+      "zh_pron": "buk¹",
+      "tags": [
+        "Cantonese",
+        "Guangzhou",
+        "Jyutping"
+      ],
+      "raw_tags": [
+        "Standard-Cantonese",
+        "Hong Kong"
+      ]
+    },
+    {
+      "zh_pron": "būk",
+      "tags": [
+        "Cantonese",
+        "Guangzhou",
+        "Yale"
+      ],
+      "raw_tags": [
+        "Standard-Cantonese",
+        "Hong Kong"
+      ]
+    },
+    {
+      "zh_pron": "buk⁷",
+      "tags": [
+        "Cantonese",
+        "Guangzhou",
+        "Cantonese",
+        "Pinyin"
+      ],
+      "raw_tags": [
+        "Standard-Cantonese",
+        "Hong Kong"
+      ]
+    },
+    {
+      "zh_pron": "bug¹",
+      "tags": [
+        "Cantonese",
+        "Guangzhou",
+        "Guangdong-Romanization"
+      ],
+      "raw_tags": [
+        "Standard-Cantonese",
+        "Hong Kong"
+      ]
+    },
+    {
+      "ipa": "/pʊk̚⁵/",
+      "tags": [
+        "Cantonese",
+        "Guangzhou",
+        "Sinological-IPA"
+      ],
+      "raw_tags": [
+        "Standard-Cantonese",
+        "Hong Kong"
+      ]
+    }
+  ],
+  "etymology_text": "From English book.",
+  "etymology_templates": [
+    {
+      "name": "bor",
+      "args": {
+        "1": "yue",
+        "2": "en",
+        "3": "book"
+      },
+      "expansion": "English book"
+    }
+  ],
+  "word": "book",
+  "lang": "Chinese",
+  "lang_code": "zh",
+  "forms": [
+    {
+      "form": "卜",
+      "tags": [
+        "alternative"
+      ]
+    }
+  ],
+  "senses": [
+    {
+      "links": [
+        [
+          "book",
+          "book#English"
+        ],
+        [
+          "reserve",
+          "reserve"
+        ]
+      ],
+      "raw_glosses": [
+        "(Hong Kong Cantonese, colloquial) to book; to reserve"
+      ],
+      "glosses": [
+        "to book; to reserve"
+      ],
+      "tags": [
+        "Cantonese",
+        "Hong-Kong",
+        "colloquial"
+      ],
+      "id": "en-book-zh-verb-Djfy2p2i",
+      "categories": [
+        {
+          "name": "Chinese entries with incorrect language header",
+          "kind": "other",
+          "parents": [],
+          "source": "w"
+        },
+        {
+          "name": "Chinese terms written in foreign scripts",
+          "kind": "other",
+          "parents": [],
+          "source": "w"
+        },
+        {
+          "name": "Hong Kong Cantonese",
+          "kind": "other",
+          "parents": [],
+          "source": "w"
+        },
+        {
+          "name": "Pages with 9 entries",
+          "kind": "other",
+          "parents": [],
+          "source": "w"
+        },
+        {
+          "name": "Pages with entries",
+          "kind": "other",
+          "parents": [],
+          "source": "w"
+        }
+      ],
+      "related": [
+        {
+          "word": "booking"
+        }
+      ]
+    }
+  ]
+}
+
+
+================================================================================
+词条 2: GDP
+================================================================================
+
+{
+  "pos": "noun",
+  "head_templates": [
+    {
+      "name": "head",
+      "args": {
+        "1": "zh",
+        "2": "noun"
+      },
+      "expansion": "GDP"
+    }
+  ],
+  "sounds": [
+    {
+      "zh_pron": "jì-dì-pì",
+      "tags": [
+        "Mandarin",
+        "Pinyin"
+      ]
+    },
+    {
+      "zh_pron": "jū-dī-pī",
+      "tags": [
+        "Mandarin",
+        "Pinyin"
+      ]
+    },
+    {
+      "zh_pron": "ㄐㄧˋ ㄉㄧˋ ㄆㄧˋ",
+      "tags": [
+        "Mandarin",
+        "Bopomofo"
+      ]
+    },
+    {
+      "zh_pron": "ㄐㄩ ㄉㄧ ㄆㄧ",
+      "tags": [
+        "Mandarin",
+        "Bopomofo"
+      ]
+    },
+    {
+      "zh_pron": "zi¹ di¹ pi¹",
+      "tags": [
+        "Cantonese",
+        "Jyutping"
+      ]
+    },
+    {
+      "zh_pron": "jì-dì-pì",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Pinyin"
+      ]
+    },
+    {
+      "zh_pron": "ㄐㄧˋ ㄉㄧˋ ㄆㄧˋ",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Bopomofo"
+      ]
+    },
+    {
+      "zh_pron": "jìdìpì",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Tongyong-Pinyin"
+      ]
+    },
+    {
+      "zh_pron": "chi⁴-ti⁴-pʻi⁴",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Wade-Giles"
+      ]
+    },
+    {
+      "zh_pron": "jì-dì-pì",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Yale"
+      ]
+    },
+    {
+      "zh_pron": "jihdihpih",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Gwoyeu-Romatsyh"
+      ]
+    },
+    {
+      "zh_pron": "цзидипи",
+      "roman": "czidipi",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Palladius"
+      ]
+    },
+    {
+      "ipa": "/t͡ɕi⁵¹⁻⁵³ ti⁵¹⁻⁵³ pʰi⁵¹/",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Sinological-IPA"
+      ]
+    },
+    {
+      "zh_pron": "jū-dī-pī",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Pinyin"
+      ]
+    },
+    {
+      "zh_pron": "ㄐㄩ ㄉㄧ ㄆㄧ",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Bopomofo"
+      ]
+    },
+    {
+      "zh_pron": "jyudipi",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Tongyong-Pinyin"
+      ]
+    },
+    {
+      "zh_pron": "chü¹-ti¹-pʻi¹",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Wade-Giles"
+      ]
+    },
+    {
+      "zh_pron": "jyū-dī-pī",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Yale"
+      ]
+    },
+    {
+      "zh_pron": "jiudipi",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Gwoyeu-Romatsyh"
+      ]
+    },
+    {
+      "zh_pron": "цзюйдипи",
+      "roman": "czjujdipi",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Palladius"
+      ]
+    },
+    {
+      "ipa": "/t͡ɕy⁵⁵ ti⁵⁵ pʰi⁵⁵/",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Sinological-IPA"
+      ]
+    },
+    {
+      "zh_pron": "zi¹ di¹ pi¹",
+      "tags": [
+        "Cantonese",
+        "Guangzhou",
+        "Jyutping"
+      ],
+      "raw_tags": [
+        "Standard-Cantonese",
+        "Hong Kong"
+      ]
+    },
+    {
+      "zh_pron": "jī dī pī",
+      "tags": [
+        "Cantonese",
+        "Guangzhou",
+        "Yale"
+      ],
+      "raw_tags": [
+        "Standard-Cantonese",
+        "Hong Kong"
+      ]
+    },
+    {
+      "zh_pron": "dzi¹ di¹ pi¹",
+      "tags": [
+        "Cantonese",
+        "Guangzhou",
+        "Cantonese",
+        "Pinyin"
+      ],
+      "raw_tags": [
+        "Standard-Cantonese",
+        "Hong Kong"
+      ]
+    },
+    {
+      "zh_pron": "ji¹ di¹ pi¹",
+      "tags": [
+        "Cantonese",
+        "Guangzhou",
+        "Guangdong-Romanization"
+      ],
+      "raw_tags": [
+        "Standard-Cantonese",
+        "Hong Kong"
+      ]
+    },
+    {
+      "ipa": "/t͡siː⁵⁵ tiː⁵⁵ pʰiː⁵⁵/",
+      "tags": [
+        "Cantonese",
+        "Guangzhou",
+        "Sinological-IPA"
+      ],
+      "raw_tags": [
+        "Standard-Cantonese",
+        "Hong Kong"
+      ]
+    }
+  ],
+  "etymology_text": "Borrowed from English GDP.",
+  "etymology_templates": [
+    {
+      "name": "bor+",
+      "args": {
+        "1": "zh",
+        "2": "en",
+        "3": "GDP"
+      },
+      "expansion": "Borrowed from English GDP"
+    }
+  ],
+  "word": "GDP",
+  "lang": "Chinese",
+  "lang_code": "zh",
+  "senses": [
+    {
+      "topics": [
+        "economics",
+        "sciences"
+      ],
+      "links": [
+        [
+          "economics",
+          "economics"
+        ],
+        [
+          "GDP",
+          "GDP#English"
+        ],
+        [
+          "國內生產總值",
+          "國內生產總值#Chinese"
+        ],
+        [
+          "国内生产总值",
+          "国内生产总值#Chinese"
+        ]
+      ],
+      "raw_glosses": [
+        "(economics) GDP (“gross domestic product”); synonym of 國內生產總值 /国内生产总值 (guónèi shēngchǎn zǒngzhí)"
+      ],
+      "glosses": [
+        "GDP (“gross domestic product”); synonym of 國內生產總值 /国内生产总值 (guónèi shēngchǎn zǒngzhí)"
+      ],
+      "id": "en-GDP-zh-noun-iwu6BXz6",
+      "categories": [
+        {
+          "name": "Chinese entries with incorrect language header",
+          "kind": "other",
+          "parents": [],
+          "source": "w"
+        },
+        {
+          "name": "Chinese terms written in foreign scripts",
+          "kind": "other",
+          "parents": [],
+          "source": "w"
+        },
+        {
+          "name": "Mandarin terms with multiple pronunciations",
+          "kind": "other",
+          "parents": [],
+          "source": "w"
+        },
+        {
+          "name": "Pages with 3 entries",
+          "kind": "other",
+          "parents": [],
+          "source": "w"
+        },
+        {
+          "name": "Pages with entries",
+          "kind": "other",
+          "parents": [],
+          "source": "w"
+        },
+        {
+          "name": "Economics",
+          "kind": "other",
+          "parents": [],
+          "source": "w",
+          "orig": "zh:Economics",
+          "langcode": "zh"
+        }
+      ]
+    }
+  ]
+}
+
+
+================================================================================
+词条 3: A
+================================================================================
+
+{
+  "pos": "adj",
+  "head_templates": [
+    {
+      "name": "head",
+      "args": {
+        "1": "zh",
+        "2": "adjectives"
+      },
+      "expansion": "A"
+    }
+  ],
+  "sounds": [
+    {
+      "zh_pron": "ēi (ei¹)",
+      "tags": [
+        "Mandarin",
+        "Pinyin"
+      ]
+    },
+    {
+      "zh_pron": "ㄟ",
+      "tags": [
+        "Mandarin",
+        "Bopomofo"
+      ]
+    },
+    {
+      "zh_pron": "ēi",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Pinyin"
+      ]
+    },
+    {
+      "zh_pron": "ㄟ",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Bopomofo"
+      ]
+    },
+    {
+      "zh_pron": "ei",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Tongyong-Pinyin"
+      ]
+    },
+    {
+      "zh_pron": "ei¹",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Wade-Giles"
+      ]
+    },
+    {
+      "zh_pron": "ēi",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Yale"
+      ]
+    },
+    {
+      "zh_pron": "ei",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Gwoyeu-Romatsyh"
+      ]
+    },
+    {
+      "zh_pron": "эй",
+      "roman": "ej",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Palladius"
+      ]
+    },
+    {
+      "ipa": "/ˀeɪ̯⁵⁵/",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Sinological-IPA"
+      ]
+    },
+    {
+      "zh_pron": "ei¹",
+      "tags": [
+        "Cantonese",
+        "Jyutping"
+      ]
+    },
+    {
+      "zh_pron": "ei¹",
+      "tags": [
+        "Cantonese",
+        "Guangzhou",
+        "Jyutping"
+      ],
+      "raw_tags": [
+        "Standard-Cantonese",
+        "Hong Kong"
+      ]
+    },
+    {
+      "zh_pron": "ēi",
+      "tags": [
+        "Cantonese",
+        "Guangzhou",
+        "Yale"
+      ],
+      "raw_tags": [
+        "Standard-Cantonese",
+        "Hong Kong"
+      ]
+    },
+    {
+      "zh_pron": "ei¹",
+      "tags": [
+        "Cantonese",
+        "Guangzhou",
+        "Cantonese",
+        "Pinyin"
+      ],
+      "raw_tags": [
+        "Standard-Cantonese",
+        "Hong Kong"
+      ]
+    },
+    {
+      "zh_pron": "éi¹",
+      "tags": [
+        "Cantonese",
+        "Guangzhou",
+        "Guangdong-Romanization"
+      ],
+      "raw_tags": [
+        "Standard-Cantonese",
+        "Hong Kong"
+      ]
+    },
+    {
+      "ipa": "/ei̯⁵⁵/",
+      "tags": [
+        "Cantonese",
+        "Guangzhou",
+        "Sinological-IPA"
+      ],
+      "raw_tags": [
+        "Standard-Cantonese",
+        "Hong Kong"
+      ]
+    },
+    {
+      "zh_pron": "ēi (ei¹)",
+      "tags": [
+        "Mandarin",
+        "Pinyin"
+      ]
+    },
+    {
+      "zh_pron": "ㄟ",
+      "tags": [
+        "Mandarin",
+        "Bopomofo"
+      ]
+    },
+    {
+      "zh_pron": "ēi",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Pinyin"
+      ]
+    },
+    {
+      "zh_pron": "ㄟ",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Bopomofo"
+      ]
+    },
+    {
+      "zh_pron": "ei",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Tongyong-Pinyin"
+      ]
+    },
+    {
+      "zh_pron": "ei¹",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Wade-Giles"
+      ]
+    },
+    {
+      "zh_pron": "ēi",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Yale"
+      ]
+    },
+    {
+      "zh_pron": "ei",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Gwoyeu-Romatsyh"
+      ]
+    },
+    {
+      "zh_pron": "эй",
+      "roman": "ej",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Palladius"
+      ]
+    },
+    {
+      "ipa": "/ˀeɪ̯⁵⁵/",
+      "tags": [
+        "Mandarin",
+        "Standard-Chinese",
+        "Sinological-IPA"
+      ]
+    }
+  ],
+  "etymology_number": 2,
+  "etymology_text": "Initialism of English available.",
+  "etymology_templates": [
+    {
+      "name": "bor",
+      "args": {
+        "1": "zh",
+        "2": "en",
+        "3": "available"
+      },
+      "expansion": "English available"
+    }
+  ],
+  "word": "A",
+  "lang": "Chinese",
+  "lang_code": "zh",
+  "senses": [
+    {
+      "raw_glosses": [
+        "(Hong Kong Cantonese, slang) single, open to a relationship"
+      ],
+      "glosses": [
+        "single, open to a relationship"
+      ],
+      "tags": [
+        "Cantonese",
+        "Hong-Kong",
+        "slang"
+      ],
+      "id": "en-A-zh-adj-idrvUf1U",
+      "categories": [
+        {
+          "name": "Hong Kong Cantonese",
+          "kind": "other",
+          "parents": [],
+          "source": "w"
+        }
+      ],
+      "derived": [
+        {
+          "word": "A0"
+        },
+        {
+          "word": "A380"
+        }
+      ]
+    }
+  ]
+}
+
+================================================================================
+字段说明文档
+================================================================================
+
+主要字段结构：
+
+1. word (str): 词条本身，如 "book", "你好" 等
+
+2. lang (str): 语言，通常是 "Chinese"
+   lang_code (str): 语言代码，通常是 "zh"
+
+3. pos (str): 词性（Part of Speech）
+   常见值: noun, verb, adj, adv, character, name, phrase, proverb, 等
+
+4. sounds (list): 发音信息数组
+   每个sound对象包含:
+   - zh_pron (str): 中文发音转写（粤拼、拼音等）
+   - tags (list): 标签，如 ["Cantonese", "Jyutping"]
+   - raw_tags (list): 原始标签，如 ["Standard-Cantonese", "Hong Kong"]
+   - ipa (str): 国际音标 (IPA)
+
+5. senses (list): 词义数组
+   每个sense对象包含:
+   - glosses (list): 释义
+   - raw_glosses (list): 原始释义（含标签信息）
+   - tags (list): 适用标签，如 ["Cantonese", "Hong-Kong"]
+   - links (list): 相关链接
+   - categories (list): 分类信息
+   - examples (list): 例句（如果有）
+
+6. head_templates (list): 词条头部模板信息
+   - name (str): 模板名称
+   - args (dict): 模板参数
+   - expansion (str): 展开后的文本
+
+7. forms (list): 词形变化
+   - form (str): 变化形式
+   - tags (list): 该形式的标签
+
+8. etymology_text (str): 词源说明文本
+   etymology_templates (list): 词源模板
+
+9. categories (list): 分类信息（顶层）
+
+10. related (list): 相关词汇
+    derived (list): 派生词
+    synonyms (list): 同义词
+    antonyms (list): 反义词
+
+11. id (str): 词条唯一标识符

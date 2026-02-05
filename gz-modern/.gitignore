@@ -1,0 +1,16 @@
+.vscode
+__pycache__
+
+/raw
+/cut
+/venv
+
+/cropped
+/input
+/output
+/info
+
+option.py
+config.py
+
+*.pdf
