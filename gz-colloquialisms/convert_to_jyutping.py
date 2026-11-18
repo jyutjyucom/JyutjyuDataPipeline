@@ -159,8 +159,12 @@ def convert_syllable(syllable):
         if final_with_yu in FINAL_MAP:
             jyutping_final = FINAL_MAP[final_with_yu]
     
+    # 变调统一用星号（如 6-2 → 6*2），与主项目其他词典一致；
+    # gwongping 列保留原书的连字符写法。
+    jyutping_tone = tone.replace("-", "*")
+
     # 组合结果
-    result = jyutping_initial + jyutping_final + tone
+    result = jyutping_initial + jyutping_final + jyutping_tone
     
     return result
 
