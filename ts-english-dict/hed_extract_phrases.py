@@ -123,6 +123,19 @@ def _is_phrase_exclude_line(text: str) -> bool:
     # 常见：<又> xxx. (See ...)
     if s.startswith("<又>"):
         return True
+    # 行内又音注记：如 "bedbug.¹¹ 又 bï. (See 蜰 bï)."、"trench.⁵ 又> hõ. (See …)"
+    # 这类注记和释义在同一行，不是独立词条。
+    if re.search(
+        r"(?<![\u4e00-\u9fff])(?:<又>|又>|又)\s*[A-Za-zÄäÊêËëÎîÏïÔôÖöÛûÜüÁáÉéÍíÓóÚúÀàÈèÌìÒòÙùÃãÕõŨũÑñ][^(]*\(See",
+        s,
+    ):
+        return True
+    # 纯标签行（<文读>、<old> 等），去掉标签后没有内容
+    if not re.sub(r"<[^<>]{1,12}>", "", s).strip():
+        return True
+    # 跨行残片：以左括号开头（如 "(cf 樔…"、"(variants: …"）
+    if s.startswith("(") or s.startswith("（"):
+        return True
     # 纯参见行
     if s.startswith("(See ") or s.startswith("See "):
         return True
